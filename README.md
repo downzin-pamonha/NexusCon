@@ -53,7 +53,7 @@ code .
 
 <div align="center">
   <h2>💻 Preview 💻</h2>
-    <a href="http://downzin01.github.io/NexusCon/">
+    <a href="nexus-con.vercel.app">
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github pages" />
   </a>
   <br>
