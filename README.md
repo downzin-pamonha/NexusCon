@@ -57,7 +57,7 @@ code .
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github pages" />
   </a>
   <br>
-  <a href="http://downzin01.github.io/NexusCon/">
+  <a href="nexus-con.vercel.app">
     <img src="./src/images/readme/preview.png" alt ="Preview Image"/>
   </a>
 </div>
